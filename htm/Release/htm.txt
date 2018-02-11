@@ -1,0 +1,8 @@
+-*-   HTM 1.0   *   Copyright (c) Gazlan 2014   -*-
+
+Text-2-HTML stupid converter
+
+Usage: htm.com text.txt
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
